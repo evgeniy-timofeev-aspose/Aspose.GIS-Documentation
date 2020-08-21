@@ -2,7 +2,7 @@
 title: "Aspose.GIS for .NET 20.08 Release Notes"
 type: docs
 url: /net/aspose-gis-for-net-20-08-release-notes/
-weight: 8
+weight: 10
 ---
 
 {{% alert color="primary" %}} 
